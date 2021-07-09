@@ -1,5 +1,5 @@
 # Virus-Total-Query-Tool
-query VT object using VirusTotal API
+query VT objects using VirusTotal API
 
 git pull  
 git merge  
