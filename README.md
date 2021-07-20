@@ -16,3 +16,5 @@ python3 -m venv .venv
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser  
   
 C:<path to venv>\.venv\Scripts\Activate.ps1
+  
+pip install -r requirements.txt
